@@ -6,5 +6,5 @@
 
 ## Usage
 
-Run `make help` for help.
+Run `make help` for help.  
 Run `make update` for submodules update.
