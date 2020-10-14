@@ -3,4 +3,4 @@
 	url = https://github.com/StasBel/cv
 [submodule "talknet"]
 	path = talknet
-	url = git@github.com:stasbel/talknet.git
+	url = https://github.com/stasbel/talknet.git 
