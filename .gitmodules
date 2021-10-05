@@ -6,4 +6,4 @@
 	url = https://github.com/stasbel/talknet.git 
 [submodule "mixer-tts-demo"]
 	path = mixer-tts-demo
-	url = git@github.com:stasbel/mixer-tts-demo.git
+	url = https://github.com/stasbel/mixer-tts-demo.git 
